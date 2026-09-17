@@ -1,0 +1,10 @@
+{
+  "name": "Remix Voice to Visual Moodboards",
+  "description": "Speak your aesthetic to generate dynamic, responsive visual moodboards using the Gemini API and voice interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
